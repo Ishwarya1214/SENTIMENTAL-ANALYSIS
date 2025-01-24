@@ -90,7 +90,7 @@ The trained Naive Bayes classifier achieved:
 ---
 
 ## 🤝 **Contributors**
-- [Your Name](https://github.com/your-github-profile)  
+- [Ishwarya S](https://github.com/your-github-profile)  
 
 For feedback or contributions, feel free to open a pull request or raise an issue.
 
